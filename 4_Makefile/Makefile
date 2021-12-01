@@ -6,7 +6,6 @@ BUILD_DIR = Build
 SRC = src/header1.c\
 src/header2.c\
 src/header3.c\
-src/header4.c\
 SeatHeat.c
 
 # All header file paths
