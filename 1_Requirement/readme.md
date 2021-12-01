@@ -26,9 +26,9 @@ The System will check whether the person is sitted on the seat or not if person 
 - Not suitable for average or high temperature places.
 
 ## 4W's and 1'H
-### **WHAT** : STEPin_Seat_Temperature_Monitoring_System
-### **WHERE** : Used in Automotive Industries
-### **WHEN** : At low Temperature
+### **WHAT** : This is like room heater but we use this in automotive industry.
+### **WHERE** : This used in automotive industry like cars, autos lorrys etc.
+### **WHEN** : This is used when the temperature is low.
 
 ## Detail requirements
 ### High Level Requirements
